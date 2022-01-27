@@ -73,7 +73,7 @@ img
 }
 .navbar-default .navbar-brand
 {
-  color: #ffa400;
+  color: #555;
   font-size: 40px;
   line-height: 35px;
 }
@@ -83,7 +83,7 @@ img
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover {
-  color: #ffffff;
+  color: #555;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle
